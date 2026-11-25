@@ -18,3 +18,7 @@ Build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Blender auto-save backups
+*.blend1
+*.blend2
